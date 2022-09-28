@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./public/images/logo.svg" alt="ig.News">
+<img alt="Logo" src="./public/images/logo.svg" alt="ig.News">
 </h1>
 
 <h1 align="center">

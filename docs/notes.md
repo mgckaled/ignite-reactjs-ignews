@@ -4,15 +4,14 @@
 
 ## Pacotes instalados
 
-### Dependências
+## Estratégias de autenticação
 
-- next
-- react
-- react-dom
-- sass
+### **JWT (Storage)**
 
-### Dependências do desenvolvedor
+### **Next Auth (Social)**
 
-- @types/node
-- @types/react
-- typescript
+- [next Auth](https://nextjs.org/docs/authentication)
+
+### **Cognito, Auth0**
+
+###
